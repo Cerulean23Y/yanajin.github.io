@@ -12,7 +12,7 @@ title                    : "Yana JIN"
 title_separator          : "-"
 name                     : &name "Yana JIN"
 description              : &description "Assistant Professor of Environmental Economics and Policy at Peking University"
-url                      : https://cerulean23y.github.io/yanajin.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://cerulean23y.github.io/yanajin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cerulean23Y/yanajin.github.io"
 
