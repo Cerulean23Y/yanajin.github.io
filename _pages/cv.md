@@ -9,56 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Environmental Economics
+* Non-Market Valuation
+* Benefit-Cost Analysis
+* Public Policy
+
+Employment
+======
+* 2022  Present Peking University, College of Environmental Sciences and Engineering Assistant Professor
+* 2020-2022 Environmental Defense Fund High Meadows Postdoctoral Economist
+* 2018-2020 William & Mary Mellon Postdoctoral Fellow
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Peking University, **2017, Ph.D.** Environmental Economics;
+* Peking University, **2011, B.S.** Biology, **B.A.** Economics
 
-Work experience
+Visiting Position
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018/2019 Summer Maler Scholar, Beijer Institute, Royal Swedish Academy of Sciences, Stockholm
+* 2017-2018 University of North Carolina at Chapel Hill, Department of City and Regional Planning Visiting Scholar
+* 2014-2015 Toulouse School of Economics Visiting Ph.D. student
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 2023  Present Benefit-Cost Analysis, Peking University
+* 2022  Present Environmental Economics, Peking University
+* 2019, 2020 William & Mary Environmental Policy in China (3 credits lecture, independent instructor) China's Green Transition (1 credit seminar, organizer)
+
+Advising
 ======
-* Currently signed in to 43 different slack teams
+**PhD students**
+* Tianyu Xia, Hengxing Yin, Tingwei Gao
+**Master students with initial placement or internship**
+* Zewei Fu, Zixiao Li, Mengyu Liu (U Maryland PhD), Yi Yang (Xiaomi), Yuhan Hu (Oregon State PhD, co-
+advising), Xuzhou Qin (co-advising)
+**Undergraduates with initial placement or internship**
+* Peking University: Haoyang Huang, Yetong Li (PKU GSM), Cheng Fang (THU Econ PhD);
+* William & Mary: Qianyin Lu (Duke), Naixin Kang (Cornerstone Research), Grace Williams (House Committee
+on Natural Resources), James Li (Morgan Stanley), Xiaoshu Lin (Yale), Qingyu Tao (JHU SAIS), Bingling Wang
+(U Penn), Rong Qin (JHU SAIS), Wenzhi Pan (U Penn), Emeline Walker, Xuejia Tong, Daniel Morgan, Tara
+Clark, Dongyang Wang;
+* Wuhan University: Yubei Li (Ohio State PhD), Jingtong Lin (ByteDance)
+
+Selected Grants
+======
+* **2024-2026** "Valuing Environmental Health Risks in China: A Stated Preference Approach" National Natural Science Foundation of China, PI
+* **2023-2025** New faculty research fund, Peking University, PI
+* **2018-2019** "Economic analysis of near-zero fossil fueled road transportation on air quality and health risks in China" World Resources Institute, PI
+* **2014-2016** "Cost-benefit analysis of phasing-out coal for various uses in 'Jing-Jin-Ji' region, China" Economy and Environment Program for Southeast Asia (EEPSEA), PI
