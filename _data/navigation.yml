@@ -10,9 +10,8 @@
 main:
   - title: "CV"
     url: /cv/
+   
   
-  - title: "Publications and Working Papers"
-    url: /publications/
     
   
     

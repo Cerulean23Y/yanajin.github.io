@@ -17,4 +17,5 @@ Yana JIN is an Assistant Professor in the College of Environmental Sciences and 
 
 [Google Scholar]bit.ly/32Oh18g
 
+[Faculty Personal Webpage]http://scholar.pku.edu.cn/yjin/home
 *Last updated: April 5, 2025*

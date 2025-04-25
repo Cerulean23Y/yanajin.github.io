@@ -21,13 +21,13 @@ repository               : "Cerulean23Y/yanajin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yanajin.jpg"
   name             : "Yana JIN"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Environmental Economics and Policy at Peking University"
   location         : "China Beijing"
   employer         : 
-  uri              : 
+  uri              : "http://scholar.pku.edu.cn/yjin/bio"
   email            : "jin.yana@pku.edu.cn" 
 
   # Academic websites
@@ -37,14 +37,14 @@ author:
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "http://scholar.pku.edu.cn/yjin/bio"
+  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/yanajin"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
