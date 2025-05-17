@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Environmental Economics and Policy at Peking University"
   location         : "China Beijing"
-  employer         : "Peking University"
-  uri              : "http://scholar.pku.edu.cn/yjin/bio"
+  employer         : "[Peking University](http://scholar.pku.edu.cn/yjin/bio)"
+  uri              : # "http://scholar.pku.edu.cn/yjin/bio"
   email            : "jin.yana@pku.edu.cn" 
 
   # Academic websites
