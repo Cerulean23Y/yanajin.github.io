@@ -31,5 +31,4 @@ redirect_from:
 
 <div class="cv-download-links">
   <a href="{https://Cerulean23Y.github.io/files/CV_Yana_Jin_2page(1).pdf" class="btn btn--primary">Download CV as PDF</a>
-
 </div>
