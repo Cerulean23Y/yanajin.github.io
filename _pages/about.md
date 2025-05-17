@@ -15,7 +15,8 @@ Yana JIN is an Assistant Professor in the College of Environmental Sciences and 
 
 [Email] jin.yana@pku.edu.cn 
 
-[Google Scholar]bit.ly/32Oh18g
+[Google Scholar](bit.ly/32Oh18g)
 
-[Faculty Personal Webpage]http://scholar.pku.edu.cn/yjin/home
+[Faculty Personal Webpage](http://scholar.pku.edu.cn/yjin/home)
+
 *Last updated: April 5, 2025*
