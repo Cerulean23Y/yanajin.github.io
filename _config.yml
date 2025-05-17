@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "China Beijing"
-title                    : "Yana JIN"
+title                    : "Yana JIN/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yana JIN"
 description              : &description "Assistant Professor of Environmental Economics and Policy at Peking University"
 url                      : https://cerulean23y.github.io/yanajin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "http://scholar.pku.edu.cn/yjin/bio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cerulean23Y/yanajin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
