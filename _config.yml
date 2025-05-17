@@ -26,12 +26,12 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Environmental Economics and Policy at Peking University"
   location         : "China Beijing"
-  employer         : "[Peking University](http://scholar.pku.edu.cn/yjin/bio)"
+  employer         : "Peking University"
   uri              : # "http://scholar.pku.edu.cn/yjin/bio"
   email            : "jin.yana@pku.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "http://scholar.pku.edu.cn/yjin/bio"
   googlescholar    : "https://bit.ly/32Oh18g"
   impactstory      : # URL
   orcid            : # URL
