@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+CV_Yana_Jin(extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=file%3A%2F%2F%2FD%3A%2Fwechat%2FWeChat%2520Files%2Fwxid_86ty5frkb9bz22%2FFileStorage%2FFile%2F2025-04%2FCV_Yana_Jin_2page(1).pdf)
+
 Research Interests
 ======
 * Environmental Economics
